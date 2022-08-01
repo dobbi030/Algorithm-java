@@ -1,4 +1,4 @@
-package com.baekjoon.gold;
+package com.algorithm.baekjoon;
 
 public class FisherKing_17143 {
 
